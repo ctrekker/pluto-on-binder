@@ -16,7 +16,7 @@ Reading the source code of this repository might be confusing! But to Pluto's de
 
 to main menu:
 
-https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto
+https://mybinder.org/v2/gh/ctrekker/pluto-on-binder/master?urlpath=pluto
 
 **time until you see the main menu**: 18sec
 
@@ -24,7 +24,7 @@ https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto
 
 #### With more elaborate setup to allow passing a URL to Pluto: (we want this)
 
-https://mybinder.org/v2/gh/fonsp/pluto-on-binder/master?urlpath=pluto/open?url=https%3A%2F%2Fgist.githubusercontent.com%2Ffonsp%2Fd88b3adc8c958dce780cf7c4df8fa437%2Fraw%2F2a8a5bdc6d8b1bcb4462006f62ead2f52fec17bf%2Fturtles.jl
+https://mybinder.org/v2/gh/ctrekker/pluto-on-binder/master?urlpath=pluto/open?url=https%3A%2F%2Fgist.githubusercontent.com%2Ffonsp%2Fd88b3adc8c958dce780cf7c4df8fa437%2Fraw%2F2a8a5bdc6d8b1bcb4462006f62ead2f52fec17bf%2Fturtles.jl
 
 **time until you see _Welcome to binder_**: 39sec
 
