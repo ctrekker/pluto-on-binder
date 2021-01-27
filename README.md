@@ -1,6 +1,6 @@
 # Warning
 
-This is an internal repository, the only purpose is to give a cool demo link on the Pluto README.
+ This is an internal repository, the only purpose is to give a cool demo link on the Pluto README.
 
 You probably do **not** want to fork this repository and use it for another project, **these instruction will come soon**. This is also **not** the recommended way to install Pluto as a jupyter extension. For this, we are working on https://github.com/fonsp/pluto-on-jupyterlab.
 
