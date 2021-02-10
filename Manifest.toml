@@ -37,7 +37,7 @@ version = "0.4.0"
 deps = ["Base64", "Dates", "IniFile", "MbedTLS", "Sockets", "URIs"]
 git-tree-sha1 = "942c1a9c750bbe79912b7bd060a420932afd35b8"
 uuid = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-version = "0.9.3"
+version = "0.9.2"
 
 [[IniFile]]
 deps = ["Test"]
